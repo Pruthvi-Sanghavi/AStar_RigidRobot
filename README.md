@@ -26,8 +26,7 @@ git clone https://github.com/Pruthvi-Sanghavi/AStar_RigidRobot.git
 cd AStar_RigidRobot
 python3 Astar_rigid.py
 ```
-- In terminal enter the coordinates for 
-- Start node as (50, 30, 60), clearance and robot radius as (0,0), step size as (1) and goal node coordinates as (150,150).
+- In terminal enter the coordinates for Start node as (50, 30, 60), clearance and robot radius as (0,0), step size as (1) and goal node coordinates as (150,150).
 
 ### From compressed folder
 - Open the desired Directory.
@@ -37,5 +36,7 @@ python3 Astar_rigid.py
 cd proj3p2_37_python
 python3 Astar_rigid.py
 ```
-- In terminal enter the coordinates for 
-- Start node as (50, 30, 60), clearance and robot radius as (0,0), step size as (1) and goal node coordinates as (150,150).
+- In terminal enter the coordinates for Start node as (50, 30, 60), clearance and robot radius as (0,0), step size as (1) and goal node coordinates as (150,150).
+
+## Results
+![Result](https://github.com/Pruthvi-Sanghavi/AStar_RigidRobot/blob/master/results/result.gif)
