@@ -39,4 +39,5 @@ python3 Astar_rigid.py
 - In terminal enter the coordinates for Start node as (50, 30, 60), clearance and robot radius as (0,0), step size as (1) and goal node coordinates as (150,150).
 
 ## Results
+- The shortest path to the goal node was found in 80.33 seconds
 ![Result](https://github.com/Pruthvi-Sanghavi/AStar_RigidRobot/blob/master/results/result.gif)
